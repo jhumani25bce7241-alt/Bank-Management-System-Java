@@ -1,2 +1,17 @@
-# Bank-Management-System-Java
-Menu-driven Bank Management System in Java using OOP concepts. Supports account creation, deposit, withdrawal and search operations.
+# Bank Management System (Java)
+
+This is a menu-driven Java application to manage bank accounts.
+
+## Features
+- Create Account
+- Deposit Money
+- Withdraw Money
+- Search Account
+- View All Accounts
+
+## Concepts Used
+- OOP (Classes & Objects)
+- ArrayList
+- Conditional Statements
+- Loops
+- Menu-driven Programming
